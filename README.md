@@ -17,7 +17,8 @@ A deep learning web application that recognizes handwritten digits (0-9) using a
 
 ## 📸 Screenshot
 
-_Add a screenshot of your app here_
+![Accuracy](screenshotAccuracy.png)
+![Demo](screenshot2.png)
 
 ## 🛠️ Technology Stack
 
@@ -54,7 +55,7 @@ _Add a screenshot of your app here_
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/YOUR_USERNAME/digit-classifier.git
+git clone https://github.com/abhinawagoo/digit-classifier.git
 cd digit-classifier
 ```
 
@@ -116,8 +117,7 @@ MIT License - feel free to use this project for learning!
 
 Feel free to reach out if you have questions or suggestions!
 
-- GitHub: [@YOUR_USERNAME](https://github.com/YOUR_USERNAME)
-- LinkedIn: [Your Name](https://linkedin.com/in/yourprofile)
+- GitHub: [@YOUR_USERNAME](https://github.com/abhinawagoo)
 ```
 
 ## Step 5: Create .gitignore
