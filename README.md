@@ -17,8 +17,8 @@ A deep learning web application that recognizes handwritten digits (0-9) using a
 
 ## 📸 Screenshot
 
-![Accuracy](screenshotAccuracy.png)
-![Demo](screenshot2.png)
+![Accuracy](ScreenshotAccuracy.png)
+![Demo](Screenshot2.png)
 
 ## 🛠️ Technology Stack
 
@@ -117,7 +117,8 @@ MIT License - feel free to use this project for learning!
 
 Feel free to reach out if you have questions or suggestions!
 
-- GitHub: [@YOUR_USERNAME](https://github.com/abhinawagoo)
+- GitHub: [@abhinawagoo](https://github.com/abhinawagoo)
+-x: [@abhinawago](https://x.com/abhinawago)
 ```
 
 ## Step 5: Create .gitignore
